@@ -1,7 +1,7 @@
 
 # BMP ASCII printer
 
-A brief description of what this project does and who it's for
+A simple program that transforms a .bmp file to its greyscale ASCII representation/
 
 Please ensure that the width of the image is smaller than your screen's
 Otherwise it will display strangely.
