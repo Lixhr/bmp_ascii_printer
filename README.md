@@ -8,6 +8,9 @@ Otherwise it will display strangely.
 
 You will have to unzoom your terminal:
 [Tutorial](https://www.geeksforgeeks.org/how-to-zoom-in-and-zoom-out-terminal-console-in-linux/)
+
+![Alt text](./plane.png?raw=true "Title")
+
 ## Run Locally
 
 Clone the project
