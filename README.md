@@ -2,9 +2,6 @@
 # BMP ASCII printer
 
 A simple program that transforms a .bmp file to its greyscale ASCII representation.
-
-Please ensure that the width of the image is smaller than your screen's
-
 Otherwise it will display strangely.
 
 You will have to unzoom your terminal:
