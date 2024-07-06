@@ -4,6 +4,7 @@
 A simple program that transforms a .bmp file to its greyscale ASCII representation.
 
 Please ensure that the image width is smaller than your screen's.
+
 You will have to unzoom your terminal:
 [Tutorial](https://www.geeksforgeeks.org/how-to-zoom-in-and-zoom-out-terminal-console-in-linux/)
 
